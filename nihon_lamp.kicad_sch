@@ -1583,7 +1583,7 @@
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical" (at 182.245 127.635 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27)))
     )
     (property "Datasheet" "~" (at 182.245 127.635 0)
       (effects (font (size 1.27 1.27)) hide)
